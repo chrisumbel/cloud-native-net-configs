@@ -1,6 +1,9 @@
 ---
 sploosh: "y0!!!!!!11"
-thingy: "oneone"
 customer:
   '0':
     ipAddress: "10.0.0.1"
+  '1':
+    ipAddress: "10.0.0.2"
+  '1':
+    ipAddress: "10.0.0.3"
