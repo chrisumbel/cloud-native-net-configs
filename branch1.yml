@@ -2,7 +2,7 @@
 sploosh: "y0!!!!!!11"
 customer:
   '0':
-    ipAddress: "10.0.0.5"
+    ipAddress: "10.0.0.6"
   '1':
     ipAddress: "10.0.0.2"
   '2':
