@@ -1,12 +1,4 @@
 ---
 sploosh: "y0!!!!!!11"
-kustomers:
-  kustomer_1: 
-    ipAddress: "10.0.0.1"
-  kustomer_2: 
-    ipAddress: "10.0.0.2"
-customers:
-  '1': 
-    ipAddress: "10.0.0.1"
-  '2': 
-    ipAddress: "10.0.0.2"
+customer:
+  ipAddress: "10.0.0.1"
