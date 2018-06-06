@@ -1,8 +1,8 @@
 ---
-sploosh: "y0!!!!!!11"
+sploosh: "y0."
 customer:
   '0':
-    ipAddress: "10.0.0.7"
+    ipAddress: "10.0.0.8"
   '1':
     ipAddress: "10.0.0.2"
   '2':
