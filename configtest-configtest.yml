@@ -1,0 +1,10 @@
+---
+splash: "3"
+sploosh: "3"
+customer:
+  '0':
+    ipAddress: "10.0.0.8"
+  '1':
+    ipAddress: "10.0.0.2"
+  '2':
+    ipAddress: "10.0.0.3"
