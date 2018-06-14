@@ -1,6 +1,5 @@
 ---
-splash: "1"
-sploosh: "1"
+sploosh: "y0."
 customer:
   '0':
     ipAddress: "10.0.0.8"
